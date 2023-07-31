@@ -1,0 +1,11 @@
+{
+  "name": "leniolabs-exercise-live-conding",
+  "version": "1.0.0",
+  "description": "Technical test for Leniolabs process - Live coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofía Di Nonno",
+  "license": "ISC"
+}
