@@ -9,7 +9,7 @@ In this project I have applied Page Object Model in Cypress.
 ## Prerequisites
 This project requires Node.js to be installed on your machine. After that you need:
 
-git clone https://github.com/sdinonno/leniolabs-exercise-ui.git
+git clone https://github.com/sdinonno/leniolabs-exercise-live-coding
 
 npm install
 
